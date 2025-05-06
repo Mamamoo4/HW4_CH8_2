@@ -1,0 +1,10 @@
+C:\Users\elmer\source\repos\Ch8_2\Ch8_2\obj\Debug\Ch8_2.csproj.AssemblyReference.cache
+C:\Users\elmer\source\repos\Ch8_2\Ch8_2\obj\Debug\Ch8_2.Form1.resources
+C:\Users\elmer\source\repos\Ch8_2\Ch8_2\obj\Debug\Ch8_2.Properties.Resources.resources
+C:\Users\elmer\source\repos\Ch8_2\Ch8_2\obj\Debug\Ch8_2.csproj.GenerateResource.cache
+C:\Users\elmer\source\repos\Ch8_2\Ch8_2\obj\Debug\Ch8_2.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\Ch8_2\Ch8_2\bin\Debug\Ch8_2.exe.config
+C:\Users\elmer\source\repos\Ch8_2\Ch8_2\bin\Debug\Ch8_2.exe
+C:\Users\elmer\source\repos\Ch8_2\Ch8_2\bin\Debug\Ch8_2.pdb
+C:\Users\elmer\source\repos\Ch8_2\Ch8_2\obj\Debug\Ch8_2.exe
+C:\Users\elmer\source\repos\Ch8_2\Ch8_2\obj\Debug\Ch8_2.pdb
